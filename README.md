@@ -11,6 +11,5 @@ _if_ \_\_name\_\_ == "\_\_BlakeMartz\_\_":
     Software engineer and audio professional.
     Passionate about leveraging technology to gain new perspectives.
     Database engineer at the Portuguese Historical Center.
-    Pursuing BSc in Computer Science.
      
     *****************************************************************************************************************************************************************************************************************************
