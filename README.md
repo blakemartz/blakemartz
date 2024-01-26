@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Blake and I'm a software engineer in San Diego.</h2>
+<h2 align="left">Hi 👋! My name is Blake and I'm a software engineer and application developer in San Diego.</h2>
 
 ###
 
