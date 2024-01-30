@@ -1,4 +1,4 @@
-<h2 align="left">software engineer and application developer in san diego, california 🌞</h2>
+<h2 align="left">software engineer in san diego, california 🌞</h2>
 
 ###
 
