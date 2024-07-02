@@ -1,4 +1,4 @@
-<h2 align="left">software developer in san diego, ca 🌞</h2>
+<h2 align="left">software engineer in san diego, ca 🌞</h2>
 
 ###
 
