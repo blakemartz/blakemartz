@@ -1,4 +1,4 @@
-<h2 align="left">technologist in san diego, ca 🌞</h2>
+<h2 align="left">```[ dev, dad, dude ]``` in san diego, ca 🌞</h2>
 
 ###
 
