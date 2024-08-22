@@ -6,5 +6,3 @@ def blakemartz():
         "location": "san diego, ca 🌞",
     }
 ```
-
-# 👨‍💻👨‍👧‍👦🏄‍♂️
