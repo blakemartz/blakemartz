@@ -2,7 +2,7 @@
 ```python
 def blakemartz():
     return {
-        "roles": ["dev", "dad", "dude"],
+        "roles": ["dad", "dev", "dude"],
         "location": "san diego, ca 🌞",
     }
 ```
