@@ -1,7 +1,7 @@
 
 ```python
     {
-        "roles": ["dad", "dev", "dude"],
+        "roles": ["dad", "view.io", "thegloomies.band"],
         "location": "san diego, ca 🌞",
     }
 ```
