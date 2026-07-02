@@ -1,7 +1,7 @@
 
 ```python
     {
-        "roles": ["dad", "dev", "dude"],
-        "location": "san diego, ca 🌞",
+        "roles": ["dad", "dude", "dev", "clanker-whisperer"],
+        "location": {"san diego", "ca"}
     }
 ```
